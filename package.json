@@ -1,4 +1,5 @@
-{
+{ 
+  "name": "api-modeler",
   "scripts": {
     "start": "micro",
     "dev": "micro-dev"
